@@ -10,7 +10,7 @@ This (crop.py) simple python code to crop the video with aspect ratio 16:9 to 9:
 
 
 
-# Merge-a-vidoe
+# Merge-a-video
 
 
 
